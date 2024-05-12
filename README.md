@@ -75,3 +75,8 @@ cd client
 npm install # you can use yarn to install the project dependencies
 npm run dev # you can also build and deploy for production
 ```
+
+
+![Balances](assets/balances.png)
+![REST-api](assets/api.png)
+
